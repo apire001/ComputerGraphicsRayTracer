@@ -1,4 +1,4 @@
-# cs130-OpenGL Basic Ray Tracer
+# cs130-Basic Ray Tracer
 
 CS 130 OpenGL Graphics Ray Tracer Project by Andrew Pirelli
 
